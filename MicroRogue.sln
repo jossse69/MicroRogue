@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRogue", "MicroRogue\MicroRogue.csproj", "{7728E7AF-BBB9-4C78-9869-2AF8EA2198F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7728E7AF-BBB9-4C78-9869-2AF8EA2198F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7728E7AF-BBB9-4C78-9869-2AF8EA2198F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7728E7AF-BBB9-4C78-9869-2AF8EA2198F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7728E7AF-BBB9-4C78-9869-2AF8EA2198F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB6AA73A-22AE-4AC5-9A58-E5C068D27077}
+	EndGlobalSection
+EndGlobal
